@@ -1,5 +1,5 @@
 
-@import url(assets/fonts/fonts.css);
+@import url(fonts.css);
 :root{--ink:#10151f;--ink2:#1b2333;--saf:#f2a01e;--saf2:#ffc15a;--cream:#fbf5e9;--paper:#fffdf8;--teal:#0f5f66;--mute:#5d6676;--line:rgba(16,21,31,.12);--r:18px;
 --fs-0:clamp(.95rem,.9rem + .2vw,1.05rem);--fs-1:clamp(1.15rem,1rem + .6vw,1.4rem);--fs-2:clamp(1.6rem,1.2rem + 1.6vw,2.4rem);--fs-3:clamp(2.2rem,1.3rem + 3.6vw,4.2rem);--fs-4:clamp(2.6rem,1.4rem + 5vw,5.6rem);
 --ease:cubic-bezier(.2,.7,.2,1)}
